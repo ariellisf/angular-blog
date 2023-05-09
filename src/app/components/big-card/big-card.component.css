@@ -27,3 +27,19 @@
 .big-card__description > p{
     color: grey;
 }
+
+@media screen and (max-width:900px){
+
+    .container__big-card{
+        align-items: center;
+        justify-content: center;
+
+        margin-bottom: 5rem;
+        padding: 2rem;
+    }
+
+    .big-card__image{
+        margin-top: 2rem;
+    }
+    
+}

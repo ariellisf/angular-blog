@@ -13,3 +13,12 @@
     margin: 0.5rem 0;
 
 }
+
+@media screen and (max-width:900px){
+
+    .container__menu-title > h1{
+        text-align: center;
+        font-size: 5rem;
+    }
+    
+}

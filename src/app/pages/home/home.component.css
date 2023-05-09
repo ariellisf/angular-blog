@@ -8,3 +8,14 @@ header{
     grid-template-columns: 1fr 1fr;
     margin: 2rem;
 }
+
+@media screen and (max-width:900px){
+
+    .container__articles{
+        display: flex;
+        flex-direction: column;
+
+        margin: 1rem;
+    }
+    
+}

@@ -13,3 +13,14 @@
 .small-card__title{
     align-self: center;
 }
+
+@media screen and (max-width:900px){
+
+    .container__small-card{
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+    }
+    
+}

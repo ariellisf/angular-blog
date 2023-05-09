@@ -1,0 +1,10 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.container__articles{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 2rem;
+}

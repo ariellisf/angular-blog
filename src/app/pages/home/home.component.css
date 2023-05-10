@@ -1,7 +1,3 @@
-header{
-    display: flex;
-    justify-content: center;
-}
 
 .container__articles{
     display: grid;
